@@ -1,0 +1,509 @@
+{
+ "jsonapi": {
+  "version": "1.1"
+ },
+ "meta": {
+  "version": 1790771173
+ },
+ "links": {
+  "self": "https://www.sheypoor.com/api/v10.0.0/categories/compact"
+ },
+ "data": [
+  {
+   "type": "category",
+   "id": "43626",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "وسایل نقلیه",
+    "slug": "vehicles"
+   },
+   "relationships": {
+    "children": {
+     "data": [
+      {
+       "type": "category",
+       "id": "43627",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "52471",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43628",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43636",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44098",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44210",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43629",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44820",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "50400",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "50410",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43630",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43603",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "املاک",
+    "slug": "real-estate"
+   },
+   "relationships": {
+    "children": {
+     "data": [
+      {
+       "type": "category",
+       "id": "44586",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43606",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43604",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44585",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43607",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "43605",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44099",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "45001",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      },
+      {
+       "type": "category",
+       "id": "44115",
+       "meta": {
+        "excludedFromHomePage": false
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "included": [
+  {
+   "type": "category",
+   "id": "43627",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "خودرو",
+    "slug": "car"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "52471",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "مزایده خودرو",
+    "slug": "car-auction"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43628",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "موتور سیکلت",
+    "slug": "motorcycles"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43636",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "خودرو کلاسیک",
+    "slug": "classic-cars"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44098",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "سنگین و نیمه سنگین",
+    "slug": "commercial-cars"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44210",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "کشاورزی و عمرانی",
+    "slug": "agriculture-construction"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43629",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "لوازم و قطعات وسایل نقلیه",
+    "slug": "auto-parts-accessories"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44820",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "اجاره خودرو",
+    "slug": "car-rental"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "50400",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "اجاره کشاورزی و عمرانی",
+    "slug": "agriculture-construction-equipment-for-rent"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "50410",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "قایق و تفریحات آبی",
+    "slug": "boats-water-sports"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43630",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "سایر وسایل نقلیه",
+    "slug": "other-vehicles"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44586",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "خرید و فروش ویلا",
+    "slug": "villa-for-sale"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43606",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "رهن و اجاره خانه و آپارتمان",
+    "slug": "house-apartment-for-rent"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43604",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "خرید و فروش خانه و آپارتمان",
+    "slug": "houses-apartments-for-sale"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44585",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "اجاره کوتاه مدت ویلا، سوئیت",
+    "slug": "real-estate-short-term-rental"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43607",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "رهن و اجاره اداری، تجاری و صنعتی",
+    "slug": "commercial-properties-for-rent"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "43605",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "خرید و فروش اداری، تجاری و صنعتی",
+    "slug": "commercial-properties-for-sale"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44099",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "زمین و باغ",
+    "slug": "land"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "45001",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "پیش فروش و مشارکت در ساخت",
+    "slug": "real-estate-services"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  },
+  {
+   "type": "category",
+   "id": "44115",
+   "meta": {
+    "excludedFromHomePage": false
+   },
+   "attributes": {
+    "name": "سایر املاک",
+    "slug": "other-real-estate"
+   },
+   "relationships": {
+    "children": {
+     "data": []
+    }
+   }
+  }
+ ]
+}

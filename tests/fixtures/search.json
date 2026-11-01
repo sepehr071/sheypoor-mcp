@@ -1,0 +1,1860 @@
+{
+ "data": [
+  {
+   "type": "special",
+   "separator": {
+    "type": "separator",
+    "title": "ویترین",
+    "desc": "آگهی‌های ویژه در شهر تهران."
+   },
+   "items": [
+    {
+     "type": "special",
+     "id": "463863604",
+     "attributes": {
+      "title": "فروش اقساطی ساینا دنده ای S 1405 سفید",
+      "url": "https://www.sheypoor.com/v/فروش-اقساط-سا-نا-دنده-ا-s-1405-سف-د-463863604.html",
+      "categoryId": 44164,
+      "timePassedLabel": "ساعاتی پیش",
+      "price": [
+       {
+        "label": "",
+        "amount": "650,000,000",
+        "currency": "تومان"
+       }
+      ],
+      "priceTag": null,
+      "paidTags": [],
+      "location": "تهران، قائم مقام",
+      "images": {
+       "thumbnails": {
+        "round": "https://cdn.sheypoor.com/imgs/2026/06/01/463863604/190x190_af/463863604_7bb48af94df810d69309e080309787d8.webp",
+        "landscape": "https://cdn.sheypoor.com/imgs/2026/06/01/463863604/180x131_af/463863604_7bb48af94df810d69309e080309787d8.webp"
+       }
+      },
+      "imageCount": 1,
+      "videoCount": 0,
+      "shopLogo": null,
+      "isSecurePurchase": false,
+      "bump": false,
+      "telephone": "0923XXX4863",
+      "hidePhoneNumber": false,
+      "categories": [
+       {
+        "name": "وسایل نقلیه",
+        "id": "43626"
+       },
+       {
+        "name": "خودرو",
+        "id": "43627"
+       },
+       {
+        "name": "ساینا",
+        "id": "44164"
+       }
+      ]
+     },
+     "fullAttributes": [
+      {
+       "a97211": "460980",
+       "id": "97211",
+       "key": "مدل خودرو",
+       "value": "ساینا دنده ای S",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "ساینا دنده ای S"
+      },
+      {
+       "a68099": "267063",
+       "id": "68099",
+       "key": "نوع شاسی",
+       "value": "سدان (سواری)",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سدان (سواری)"
+      },
+      {
+       "a69150": "445100",
+       "id": "69150",
+       "key": "نقدی/اقساطی",
+       "value": "اقساطی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+       "icon_caption": "اقساطی"
+      },
+      {
+       "a68101": "1405",
+       "id": "68101",
+       "key": "سال تولید (چهار رقمی)",
+       "value": "1405",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+       "icon_caption": "تولید 1405"
+      },
+      {
+       "a69130": "445243",
+       "id": "69130",
+       "key": "رنگ",
+       "value": "سفید",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+       "icon_caption": "سفید"
+      },
+      {
+       "a69140": "445308",
+       "id": "69140",
+       "key": "گیربکس",
+       "value": "دنده‌ای",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+       "icon_caption": "دنده‌ای"
+      },
+      {
+       "a987000": "468000",
+       "id": "987000",
+       "key": "وضعیت شاسی جلو",
+       "value": "سالم و پلمپ",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم و پلمپ"
+      },
+      {
+       "a987001": "468003",
+       "id": "987001",
+       "key": "وضعیت شاسی عقب",
+       "value": "سالم و پلمپ",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم و پلمپ"
+      },
+      {
+       "a69602": "450675",
+       "id": "69602",
+       "key": "نوع سوخت",
+       "value": "بنزین",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+       "icon_caption": "بنزین"
+      },
+      {
+       "a69160": "445317",
+       "id": "69160",
+       "key": "وضعیت بدنه",
+       "value": "سالم بدون خط و خش",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم بدون خط و خش"
+      }
+     ],
+     "description": "توضیحات:\n\n لطفاتا انتهای آگهی مطالعه کنید و سپس تماس بگیرید!!!!\n\nساعت پاسخگویی*** : شنبه تا چهارشنبه : \n\n( 9:30 صبح تا 9شب) پنج شنبه : ( 10 صبح \n\nتا 6 بعد از ظهر ) \n\n️(( مبلغ درج شده در آگهی مبلغ پیشنهادی پیش پرداخت می‌باشد . \n\n  حداقل مبلغ پیش پرداخت نصف قیمت \nنقد خودرو و در صورت پرداخت پول پیش بیشتر اقساط ماهیانه کاهش پیدا میکنه!!!  \n\nتحویل آنی و فوری در روز خرید.             \n\n پلاک روز \n\nبیمه نامه و گارانتی طبق شرایط کارخانه.       \n\nشرایط پرداخت تا 30 ماه با سود 3/5٪              \n\n  تهران و شهرستان فقط با چک صیاد بدون ضامن.     \n\nبا اعتماد خرید کنید  . . .\n\nاعتماد نوین خودرو88527683ـ21\n\nکارشناس فروش جناب آقای ذولفقاری\n",
+     "sort": null
+    },
+    {
+     "type": "special",
+     "id": "466160800",
+     "attributes": {
+      "title": "تویوتا کرولا هیبرید 2026سفید/نقدواقساط",
+      "url": "https://www.sheypoor.com/v/تو-وتا-رولا-ه-بر-د-2026سف-د-نقدواقساط-466160800.html",
+      "categoryId": 43987,
+      "timePassedLabel": "ساعاتی پیش",
+      "price": [
+       {
+        "label": "",
+        "amount": "5,500,000,000",
+        "currency": "تومان"
+       }
+      ],
+      "priceTag": null,
+      "paidTags": [],
+      "location": "تهران، مرزداران",
+      "images": {
+       "thumbnails": {
+        "round": "https://cdn.sheypoor.com/imgs/2026/10/18/466160800/190x190_af/466160800_3623def41074106d6d7f5031856fbc87.webp",
+        "landscape": "https://cdn.sheypoor.com/imgs/2026/10/18/466160800/180x131_af/466160800_3623def41074106d6d7f5031856fbc87.webp"
+       }
+      },
+      "imageCount": 7,
+      "videoCount": 0,
+      "shopLogo": "https://www.sheypoor.com/image/a4cfb5/64x64_Sa/shop_photos/13402/Image.webp?1785273901",
+      "isSecurePurchase": false,
+      "bump": false,
+      "telephone": "0936XXX2925",
+      "hidePhoneNumber": false,
+      "categories": [
+       {
+        "name": "وسایل نقلیه",
+        "id": "43626"
+       },
+       {
+        "name": "خودرو",
+        "id": "43627"
+       },
+       {
+        "name": "تویوتا",
+        "id": "43987"
+       }
+      ]
+     },
+     "fullAttributes": [
+      {
+       "a68146": "465026",
+       "id": "68146",
+       "key": "مدل خودرو",
+       "value": "کرولا  هیبرید",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "کرولا  هیبرید"
+      },
+      {
+       "a69150": "445097",
+       "id": "69150",
+       "key": "نقدی/اقساطی",
+       "value": "نقدی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+       "icon_caption": "نقدی"
+      },
+      {
+       "a68101": "2025",
+       "id": "68101",
+       "key": "سال تولید (چهار رقمی)",
+       "value": "2025",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+       "icon_caption": "تولید 2025"
+      },
+      {
+       "a68102": "0",
+       "id": "68102",
+       "key": "کیلومتر",
+       "value": "0",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+       "icon_caption": "۰"
+      },
+      {
+       "a69130": "445243",
+       "id": "69130",
+       "key": "رنگ",
+       "value": "سفید",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+       "icon_caption": "سفید"
+      },
+      {
+       "a69140": "445313",
+       "id": "69140",
+       "key": "گیربکس",
+       "value": "اتوماتیک",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+       "icon_caption": "اتوماتیک"
+      },
+      {
+       "a987000": "468006",
+       "id": "987000",
+       "key": "وضعیت شاسی جلو",
+       "value": "اعلام نشده",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "اعلام نشده"
+      },
+      {
+       "a987001": "468007",
+       "id": "987001",
+       "key": "وضعیت شاسی عقب",
+       "value": "اعلام نشده",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "اعلام نشده"
+      },
+      {
+       "a69602": "450675",
+       "id": "69602",
+       "key": "نوع سوخت",
+       "value": "بنزین",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+       "icon_caption": "بنزین"
+      },
+      {
+       "a69160": "445317",
+       "id": "69160",
+       "key": "وضعیت بدنه",
+       "value": "سالم بدون خط و خش",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم بدون خط و خش"
+      }
+     ],
+     "description": " افرا خودرو – نگین پایتخت \nمشاور شما: خانم حمیدی \n\n فروش نقد و اقساط\n تحویل فوری یک‌ساعته\n بدون ضامن – کمترین نرخ سود\n اقساط از یک ماه تا 24 ماه فقط با چک شخصی\n سند و پلاک به نام خریدار\n فروش کلیه خودروهای ایرانی، چینی، وارداتی و موجودی\n رنگ‌بندی متنوع و قابل انتخاب\n شرایط خرید برای کلیه شهرهای ایران\n\n آدرس:\nتهران، بالاتر از میدان صادقیه،\nاشرفی اصفهانی، نرسیده به مرزداران،\nبرج نگین رضا، طبقه 4، واحد 412\n\n\n منتظر حضور گرم شما هستیم. جهت هماهنگی، فقط کافیست تماس بگیرید ",
+     "sort": null
+    }
+   ],
+   "show_all": "b=1"
+  },
+  {
+   "type": "paidEngagement",
+   "id": "468768398",
+   "attributes": {
+    "title": "ماکسیما 82 اتوماتیک",
+    "url": "https://www.sheypoor.com/v/ما-س-ما-82-اتومات-468768398.html",
+    "categoryId": 43970,
+    "timePassedLabel": "ساعاتی پیش",
+    "price": [
+     {
+      "label": "قیمت",
+      "amount": "توافقی",
+      "currency": ""
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [
+     {
+      "label": "فوری",
+      "background": "#e53535",
+      "color": "#ffffff"
+     }
+    ],
+    "location": "تهران، تهرانپارس شرقی",
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468768398/190x190_af/468768398_f47e34dba94e4d3a10c302cd4f933d0a.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468768398/180x131_af/468768398_f47e34dba94e4d3a10c302cd4f933d0a.webp"
+     }
+    },
+    "imageCount": 5,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "bump": false,
+    "telephone": "0992XXX2742",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "نیسان",
+      "id": "43970"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a68196": "442184",
+     "id": "68196",
+     "key": "مدل خودرو",
+     "value": "ماکسیما",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "ماکسیما"
+    },
+    {
+     "a68099": "267063",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "سدان (سواری)",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سدان (سواری)"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1382",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1382",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1382"
+    },
+    {
+     "a68102": "360000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "360000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۳۶۰,۰۰۰"
+    },
+    {
+     "a69130": "445258",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "نوک مدادی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "نوک مدادی"
+    },
+    {
+     "a69140": "445313",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "اتوماتیک",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "اتوماتیک"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445337",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "چند لکه رنگ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "چند لکه رنگ"
+    }
+   ],
+   "description": "ماشین خوش رخ. \nجلوبندی سرویس شده 60 میلیون \nگیربکس تازه تعویض \nشمع وایر تعویض  \n4 لکه رنگ    2 3 لکه آبرنگ دوررنگ در اصل \n",
+   "sort": null
+  },
+  {
+   "id": "468783256",
+   "type": "normal",
+   "attributes": {
+    "title": "پراید مدل 88 پژو سمند",
+    "location": "تهران، جنت آباد مرکزی",
+    "bump": false,
+    "url": "https://www.sheypoor.com/v/را-د-مدل-88-و-سمند-468783256.html",
+    "categoryId": 43976,
+    "timePassedLabel": "لحظاتی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "395,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468783256/190x190_af/468783256_955f55b910e58369a5c330e33245c31c.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468783256/180x131_af/468783256_955f55b910e58369a5c330e33245c31c.webp"
+     }
+    },
+    "imageCount": 3,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "telephone": "0903XXX2588",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "پراید",
+      "id": "43976"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a68143": "440665",
+     "id": "68143",
+     "key": "مدل خودرو",
+     "value": "صبا (صندوقدار) بنزینی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "صبا (صندوقدار) بنزینی"
+    },
+    {
+     "a68099": "267063",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "سدان (سواری)",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سدان (سواری)"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1388",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1388",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1388"
+    },
+    {
+     "a68102": "600000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "600000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۶۰۰,۰۰۰"
+    },
+    {
+     "a69130": "445303",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "نقره‌ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "نقره‌ای"
+    },
+    {
+     "a69140": "445308",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "دنده‌ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "دنده‌ای"
+    },
+    {
+     "a987000": "468001",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "ضربه خورده",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "ضربه خورده"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445337",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "چند لکه رنگ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "چند لکه رنگ"
+    }
+   ],
+   "description": "با سلام \nپراید مدل 88 مدارک آماده بیمه معاینه دارد \nشاسی جلو ضربه،موتور دود سیاه دارد ",
+   "geo": null,
+   "sort": [
+    1.0,
+    1793485403379
+   ]
+  },
+  {
+   "type": "paidEngagement",
+   "id": "461759536",
+   "attributes": {
+    "title": "پژو 207i (پانا) 1403 اینه فتوکرومیک ، 85 گانه",
+    "url": "https://www.sheypoor.com/v/و-207i-انا-1403-ا-نه-فتو-روم-85-انه-461759536.html",
+    "categoryId": 43973,
+    "timePassedLabel": "ساعاتی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "2,870,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "location": "سرخرود",
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/04/13/461759536/190x190_af/461759536_8e8fff8e73abf490b43dd2f62c5b7aef.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/04/13/461759536/180x131_af/461759536_8e8fff8e73abf490b43dd2f62c5b7aef.webp"
+     }
+    },
+    "imageCount": 3,
+    "videoCount": 0,
+    "shopLogo": "https://www.sheypoor.com/image/21c353/64x64_Sa/shop_photos/87827/Image.webp?1782802703",
+    "isSecurePurchase": false,
+    "bump": false,
+    "telephone": "0911XXX1803",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "پژو",
+      "id": "43973"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a68142": "459688",
+     "id": "68142",
+     "key": "مدل خودرو",
+     "value": "207i (پانوراما دنده ای)",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "207i (پانوراما دنده ای)"
+    },
+    {
+     "a68099": "267061",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "هاچ بک",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "هاچ بک"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1403",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1403",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1403"
+    },
+    {
+     "a68102": "24000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "24000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۲۴,۰۰۰"
+    },
+    {
+     "a69130": "445243",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "سفید",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "سفید"
+    },
+    {
+     "a69140": "445308",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "دنده‌ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "دنده‌ای"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445317",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "سالم بدون خط و خش",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم بدون خط و خش"
+    }
+   ],
+   "description": "واقعا واقعا درحد صفر ، اینه فتوکرومیک 85 گانه ارتقا یافته ، بدون کوچکترین نقطه ، مصرف کننده های عزیز این ریزش خودرو فقط ی فرصت خریده برای شما عزیزان دست دست نکنید \n با تشکر مدیریت ■ بهنام ■",
+   "sort": null
+  },
+  {
+   "id": "468783049",
+   "type": "normal",
+   "attributes": {
+    "title": "تارا v4 فروش فوری",
+    "location": "تهران، ایرانشهر",
+    "bump": false,
+    "url": "https://www.sheypoor.com/v/تارا-v4-فروش-فور-468783049.html",
+    "categoryId": 50800,
+    "timePassedLabel": "لحظاتی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "3,650,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468783049/190x190_af/468783049_412a9d454ffbd84bdad6aee9c9098938.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468783049/180x131_af/468783049_412a9d454ffbd84bdad6aee9c9098938.webp"
+     }
+    },
+    "imageCount": 1,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "telephone": "0918XXX0622",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "تارا",
+      "id": "50800"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a97209": "466119",
+     "id": "97209",
+     "key": "مدل خودرو",
+     "value": "وی 4 ال ایکس tu5p",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "وی 4 ال ایکس tu5p"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1403",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1403",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1403"
+    },
+    {
+     "a68102": "800",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "800",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۸۰۰"
+    },
+    {
+     "a69130": "445243",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "سفید",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "سفید"
+    },
+    {
+     "a69140": "445313",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "اتوماتیک",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "اتوماتیک"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445317",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "سالم بدون خط و خش",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم بدون خط و خش"
+    }
+   ],
+   "description": "برج 11 403 گارانتی فعال ",
+   "geo": null,
+   "sort": [
+    1.0,
+    1793484982730
+   ]
+  },
+  {
+   "type": "paidEngagement",
+   "id": "468765016",
+   "attributes": {
+    "title": "سمند سورن پلاس xu7p دریچه گاز برقی کم مصرف",
+    "url": "https://www.sheypoor.com/v/سمند-سورن-لاس-xu7p-در-ه-از-برق-م-مصرف-468765016.html",
+    "categoryId": 43979,
+    "timePassedLabel": "ساعاتی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "2,400,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "location": "تهران، آذری",
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468765016/190x190_af/468765016_a9185217ad5e88b1cc0622955b822544.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468765016/180x131_af/468765016_a9185217ad5e88b1cc0622955b822544.webp"
+     }
+    },
+    "imageCount": 3,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "bump": false,
+    "telephone": "0919XXX2310",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "سمند",
+      "id": "43979"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a68195": "465107",
+     "id": "68195",
+     "key": "مدل خودرو",
+     "value": "سورن پلاس XU7P بنزینی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سورن پلاس XU7P بنزینی"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1404",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1404",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1404"
+    },
+    {
+     "a68102": "18000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "18000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۱۸,۰۰۰"
+    },
+    {
+     "a69130": "445243",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "سفید",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "سفید"
+    },
+    {
+     "a69140": "445308",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "دنده‌ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "دنده‌ای"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445317",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "سالم بدون خط و خش",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم بدون خط و خش"
+    }
+   ],
+   "description": "دروبین دنده عقب اینه بغل ها برقی و....",
+   "sort": null
+  },
+  {
+   "id": "468782840",
+   "type": "normal",
+   "attributes": {
+    "title": "فروش حواله تارا",
+    "location": "تهران، استادمعین",
+    "bump": false,
+    "url": "https://www.sheypoor.com/v/فروش-حواله-تارا-468782840.html",
+    "categoryId": 50800,
+    "timePassedLabel": "دقایقی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "150,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468782840/190x190_af/468782840_71d445da12195d7335b00e859c461eb8.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468782840/180x131_af/468782840_71d445da12195d7335b00e859c461eb8.webp"
+     }
+    },
+    "imageCount": 1,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "telephone": "0990XXX6270",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "تارا",
+      "id": "50800"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a97209": "459714",
+     "id": "97209",
+     "key": "مدل خودرو",
+     "value": "دنده ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "دنده ای"
+    },
+    {
+     "a68099": "267063",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "سدان (سواری)",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سدان (سواری)"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "1406",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "1406",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 1406"
+    },
+    {
+     "a68102": "0",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "0",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۰"
+    },
+    {
+     "a69130": "445243",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "سفید",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "سفید"
+    },
+    {
+     "a69140": "445308",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "دنده‌ای",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "دنده‌ای"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445317",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "سالم بدون خط و خش",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم بدون خط و خش"
+    }
+   ],
+   "description": "تارا 6 سرعته با گیربکس دستی\nپیش پرداخت: 1/030 \nتحویل تیر 1406\nتخفیف به خریدار واقعی",
+   "geo": null,
+   "sort": [
+    1.0,
+    1793484592473
+   ]
+  },
+  {
+   "type": "catalogLink",
+   "separator": {
+    "type": "separator",
+    "title": "مشخصات فنی و نظرات کاربران",
+    "desc": ""
+   },
+   "items": [
+    {
+     "title": "قبل از تصمیم نهایی، بررسی فنی دقیق به‌همراه نظرات دارندگان خودرو رو بخون!",
+     "titleMobile": "بررسی کامل خودرو",
+     "buttonTitle": "مشخصات فنی و نظرات کاربران",
+     "link": "https://www.sheypoor.com/catalog-car"
+    }
+   ],
+   "show_all": null
+  },
+  {
+   "type": "banner",
+   "id": "2460093b24e5d6ba",
+   "attributes": {
+    "name": "",
+    "description": "",
+    "link": "https://banners.sheypoor.com/banner/external/link/2460093b24e5d6ba?c=43627&ct%5B0%5D=301&p=1&ds=search&dsource=1&version=1000",
+    "url": "https://banners.sheypoor.com/banner/external/link/2460093b24e5d6ba?c=43627&ct%5B0%5D=301&p=1&ds=search&dsource=1&version=1000",
+    "no_follow": "1",
+    "target": "_blank",
+    "type": "default",
+    "title": "",
+    "button_text": "",
+    "image": "https://www.sheypoor.com/banner/external/image/2460093b24e5d6ba?c=43627&ct%5B0%5D=301&p=1&ds=search&dsource=1&version=1000",
+    "width": 1200,
+    "height": 177,
+    "provider": "sheypoor",
+    "provider_type": "external",
+    "serpIndex": 7,
+    "style": {
+     "titleColor": "#030A17",
+     "descriptionColor": "#81858B",
+     "backgroundColor": "#FFFFFF"
+    },
+    "badge": {
+     "title": "تبلیغ",
+     "titleColor": "#0084FF",
+     "backgroundColor": "#FFFFFF"
+    }
+   }
+  },
+  {
+   "id": "468782704",
+   "type": "normal",
+   "attributes": {
+    "title": "اسپورتیچ 2010",
+    "location": "تهران، استادمعین",
+    "bump": false,
+    "url": "https://www.sheypoor.com/v/اس-ورت-2010-468782704.html",
+    "categoryId": 43958,
+    "timePassedLabel": "دقایقی پیش",
+    "price": [
+     {
+      "label": "",
+      "amount": "3,800,000,000",
+      "currency": "تومان"
+     }
+    ],
+    "priceTag": null,
+    "paidTags": [],
+    "images": {
+     "thumbnails": {
+      "round": "https://cdn.sheypoor.com/imgs/2026/10/31/468782704/190x190_af/468782704_a43d8fdd75fa15f4c8c973a6c0b4e1b2.webp",
+      "landscape": "https://cdn.sheypoor.com/imgs/2026/10/31/468782704/180x131_af/468782704_a43d8fdd75fa15f4c8c973a6c0b4e1b2.webp"
+     }
+    },
+    "imageCount": 6,
+    "videoCount": 0,
+    "shopLogo": null,
+    "isSecurePurchase": false,
+    "telephone": "0935XXX4245",
+    "hidePhoneNumber": false,
+    "categories": [
+     {
+      "name": "وسایل نقلیه",
+      "id": "43626"
+     },
+     {
+      "name": "خودرو",
+      "id": "43627"
+     },
+     {
+      "name": "کیا",
+      "id": "43958"
+     }
+    ]
+   },
+   "fullAttributes": [
+    {
+     "a68148": "440720",
+     "id": "68148",
+     "key": "مدل خودرو",
+     "value": "اسپورتیج",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "اسپورتیج"
+    },
+    {
+     "a68099": "434989",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "شاسی بلند",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "شاسی بلند"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a68101": "2010",
+     "id": "68101",
+     "key": "سال تولید (چهار رقمی)",
+     "value": "2010",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 2010"
+    },
+    {
+     "a68102": "197000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "197000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۱۹۷,۰۰۰"
+    },
+    {
+     "a69130": "445248",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "مشکی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "مشکی"
+    },
+    {
+     "a69140": "445313",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "اتوماتیک",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "اتوماتیک"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a69160": "445332",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "دو لکه رنگ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "دو لکه رنگ"
+    }
+   ],
+   "description": "اسپورتیچ 2010\nمشکی تومشکی\n2700cc\nدو دیفرانسیل \nجی پی اس\nمانیتور دار\nسند دو برگ\nهمه اپشنها فعال\nلاستیک نکسن ژاپن\nهمه مصرفیها در نمایندگی تعویض\nفقط،مصرف کننده\nسه تیکه رنگ جزیی کف دست\n",
+   "geo": null,
+   "sort": [
+    1.0,
+    1793484334704
+   ]
+  },
+  {
+   "type": "vip",
+   "separator": {
+    "type": "separator",
+    "title": "ویترین سراسری",
+    "desc": "آگهی‌های ویژه استانی و سراسر ایران."
+   },
+   "items": [
+    {
+     "type": "vip",
+     "id": "468660894",
+     "attributes": {
+      "title": "خودرو فرسوده اسقاط",
+      "url": "https://www.sheypoor.com/v/خودرو-فرسوده-اسقاط-468660894.html",
+      "categoryId": 43976,
+      "timePassedLabel": "4 روز پیش",
+      "price": [
+       {
+        "label": "",
+        "amount": "200,000,000",
+        "currency": "تومان"
+       }
+      ],
+      "priceTag": null,
+      "paidTags": [],
+      "location": "سراسر ایران",
+      "images": {
+       "thumbnails": {
+        "round": "https://cdn.sheypoor.com/imgs/2026/10/27/468660894/190x190_af/468660894_e257f6605c04ad86aad74eabaada8b62.webp",
+        "landscape": "https://cdn.sheypoor.com/imgs/2026/10/27/468660894/180x131_af/468660894_e257f6605c04ad86aad74eabaada8b62.webp"
+       }
+      },
+      "imageCount": 6,
+      "videoCount": 0,
+      "shopLogo": null,
+      "isSecurePurchase": false,
+      "bump": false,
+      "telephone": "0990XXX8351",
+      "hidePhoneNumber": false,
+      "categories": [
+       {
+        "name": "وسایل نقلیه",
+        "id": "43626"
+       },
+       {
+        "name": "خودرو",
+        "id": "43627"
+       },
+       {
+        "name": "پراید",
+        "id": "43976"
+       }
+      ]
+     },
+     "fullAttributes": [
+      {
+       "a68143": "440665",
+       "id": "68143",
+       "key": "مدل خودرو",
+       "value": "صبا (صندوقدار) بنزینی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "صبا (صندوقدار) بنزینی"
+      },
+      {
+       "a68099": "267063",
+       "id": "68099",
+       "key": "نوع شاسی",
+       "value": "سدان (سواری)",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سدان (سواری)"
+      },
+      {
+       "a69150": "445097",
+       "id": "69150",
+       "key": "نقدی/اقساطی",
+       "value": "نقدی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+       "icon_caption": "نقدی"
+      },
+      {
+       "a68101": "1385",
+       "id": "68101",
+       "key": "سال تولید (چهار رقمی)",
+       "value": "1385",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+       "icon_caption": "تولید 1385"
+      },
+      {
+       "a68102": "313000",
+       "id": "68102",
+       "key": "کیلومتر",
+       "value": "313000",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+       "icon_caption": "۳۱۳,۰۰۰"
+      },
+      {
+       "a69130": "445243",
+       "id": "69130",
+       "key": "رنگ",
+       "value": "سفید",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+       "icon_caption": "سفید"
+      },
+      {
+       "a69140": "445308",
+       "id": "69140",
+       "key": "گیربکس",
+       "value": "دنده‌ای",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+       "icon_caption": "دنده‌ای"
+      },
+      {
+       "a987000": "468001",
+       "id": "987000",
+       "key": "وضعیت شاسی جلو",
+       "value": "ضربه خورده",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "ضربه خورده"
+      },
+      {
+       "a987001": "468004",
+       "id": "987001",
+       "key": "وضعیت شاسی عقب",
+       "value": "ضربه خورده",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "ضربه خورده"
+      },
+      {
+       "a69602": "450675",
+       "id": "69602",
+       "key": "نوع سوخت",
+       "value": "بنزین",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+       "icon_caption": "بنزین"
+      },
+      {
+       "a69160": "445342",
+       "id": "69160",
+       "key": "وضعیت بدنه",
+       "value": "تصادفی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "تصادفی"
+      }
+     ],
+     "description": "مرکز اسقاط و بازیافت \n            خودروهای فرسوده \n    سبک 200میلیون و سنگین 1 میلیارد ⭐️\n\nتسویه فوری و شفاف در محضر با بالاترین قیمت \n\n  خودروهای فرسوده در هر   شرایطی:\nتصادفی، چپی، سوخته، دوتیکه، سیلندر/اتاق/شاسی تعویض، موتور خراب، پوسیده.\n\nتاکسی پیکان 270 میلیون\n\nتاکسی پراید  280 میلیون\n\nتاکسی  پژو 300 میلیون\n\nخاور   یک  و دویست   1/200\n\nمینی‌بوس:  یک  1  میلیارد\n\nاتوبوس کشنده: تماس بگیرید\n\n️ قیمت خودروهای سواری :\n\nپژو سمند: 200 میلیون  الی  220 میلیون بستگی به ماشینش داره\n\nپراید روا آردی PK پیکان رنو: 200 میلیون\n\n️ قیمت نیسان  و  زامیاد:\nنیسان تناژ پایین روشن : 330 میلیون\nوانت نیسان کامیونت ون:\nنیسان تناژ بالا (کامیونت ون): 500میلیون\n\nلاشه برگردون قیمتش فرق داره\n\n\n فک پلاک حدود 14 روز کاری\n تخفیفات و باقی‌مانده بیمه متعلق به شماست.\n\nدفتر مرکزی: استان قم \n\nتجربه‌ای شفاف و پاسخگو با ما ⭐️\nبرای مشاوره و فروش خودروی خود تماس بگیرید ️",
+     "sort": null
+    },
+    {
+     "type": "vip",
+     "id": "468429357",
+     "attributes": {
+      "title": "پژو 206 تیپ دو . 85معاوضه با ملک و ماشین",
+      "url": "https://www.sheypoor.com/v/و-206-ت-دو-85معاوضه-با-مل-ماش-ن-468429357.html",
+      "categoryId": 43973,
+      "timePassedLabel": "1 هفته پیش",
+      "price": [
+       {
+        "label": "",
+        "amount": "1,380,000,000",
+        "currency": "تومان"
+       }
+      ],
+      "priceTag": null,
+      "paidTags": [],
+      "location": "سراسر ایران",
+      "images": {
+       "thumbnails": {
+        "round": "https://cdn.sheypoor.com/imgs/2026/10/20/468429357/190x190_af/468429357_17a35cb7ef667bea3acabd52060dc2c7.webp",
+        "landscape": "https://cdn.sheypoor.com/imgs/2026/10/20/468429357/180x131_af/468429357_17a35cb7ef667bea3acabd52060dc2c7.webp"
+       }
+      },
+      "imageCount": 8,
+      "videoCount": 0,
+      "shopLogo": null,
+      "isSecurePurchase": false,
+      "bump": false,
+      "telephone": "0911XXX3487",
+      "hidePhoneNumber": false,
+      "categories": [
+       {
+        "name": "وسایل نقلیه",
+        "id": "43626"
+       },
+       {
+        "name": "خودرو",
+        "id": "43627"
+       },
+       {
+        "name": "پژو",
+        "id": "43973"
+       }
+      ]
+     },
+     "fullAttributes": [
+      {
+       "a68142": "440655",
+       "id": "68142",
+       "key": "مدل خودرو",
+       "value": "206 (تیپ2)",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "206 (تیپ2)"
+      },
+      {
+       "a68099": "267061",
+       "id": "68099",
+       "key": "نوع شاسی",
+       "value": "هاچ بک",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "هاچ بک"
+      },
+      {
+       "a69150": "445097",
+       "id": "69150",
+       "key": "نقدی/اقساطی",
+       "value": "نقدی",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+       "icon_caption": "نقدی"
+      },
+      {
+       "a68101": "1385",
+       "id": "68101",
+       "key": "سال تولید (چهار رقمی)",
+       "value": "1385",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+       "icon_caption": "تولید 1385"
+      },
+      {
+       "a68102": "88000",
+       "id": "68102",
+       "key": "کیلومتر",
+       "value": "88000",
+       "type": "1",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+       "icon_caption": "۸۸,۰۰۰"
+      },
+      {
+       "a69130": "445283",
+       "id": "69130",
+       "key": "رنگ",
+       "value": "بژ",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+       "icon_caption": "بژ"
+      },
+      {
+       "a69140": "445308",
+       "id": "69140",
+       "key": "گیربکس",
+       "value": "دنده‌ای",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+       "icon_caption": "دنده‌ای"
+      },
+      {
+       "a987000": "468000",
+       "id": "987000",
+       "key": "وضعیت شاسی جلو",
+       "value": "سالم و پلمپ",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم و پلمپ"
+      },
+      {
+       "a987001": "468003",
+       "id": "987001",
+       "key": "وضعیت شاسی عقب",
+       "value": "سالم و پلمپ",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم و پلمپ"
+      },
+      {
+       "a69602": "450675",
+       "id": "69602",
+       "key": "نوع سوخت",
+       "value": "بنزین",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+       "icon_caption": "بنزین"
+      },
+      {
+       "a69160": "445317",
+       "id": "69160",
+       "key": "وضعیت بدنه",
+       "value": "سالم بدون خط و خش",
+       "type": "5",
+       "mobileApiVersion": "0",
+       "icon": null,
+       "icon_caption": "سالم بدون خط و خش"
+      },
+      {
+       "a75022": "true",
+       "id": "75022",
+       "key": "نشان فوری (هزینه جداگانه)",
+       "value": "true",
+       "type": "2",
+       "mobileApiVersion": "503",
+       "icon": null,
+       "icon_caption": "true"
+      }
+     ],
+     "description": "ماشین بدون رنگ کم کارکرد کلکسیونی بدون توضیح . بیمه فول لاستیک 100٪ فنی درجه یک. سویچ دوم موجود کارکرد 88000. پیچ تا پیچ ماشین فابریک و دست نخورده",
+     "sort": null
+    }
+   ],
+   "show_all": "vl=1"
+  },
+  {
+   "type": "nativeAd",
+   "id": 23,
+   "attributes": {}
+  }
+ ],
+ "extra_sections": [],
+ "meta": {
+  "total": 5294,
+  "normal_count": 3617,
+  "p": 1,
+  "items_per_page": 24,
+  "f": "[1.0, 1793477739892]_468779208n_1793473059.242695",
+  "query_id": null,
+  "mnp": 0,
+  "mxp": 136000000000,
+  "api_version": "v10.0.0",
+  "toggles": [
+   {
+    "toggle_toggle.external_banner_provider_web": true
+   }
+  ],
+  "add_style": "default"
+ }
+}

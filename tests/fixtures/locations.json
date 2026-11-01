@@ -1,0 +1,95 @@
+{
+ "success": true,
+ "message": "",
+ "data": {
+  "version": 1792235254,
+  "list": [
+   {
+    "provinceID": 8,
+    "name": "تهران",
+    "slug": "tehran-province",
+    "cities": [
+     {
+      "cityID": 290,
+      "name": "ارجمند",
+      "slug": "arjmand"
+     },
+     {
+      "cityID": 291,
+      "name": "اسلامشهر",
+      "slug": "eslamshahr"
+     },
+     {
+      "cityID": 292,
+      "name": "اندیشه",
+      "slug": "andisheh"
+     }
+    ],
+    "allowedToFilterByCity": true,
+    "isTop": true
+   },
+   {
+    "provinceID": 27,
+    "name": "مازندران",
+    "slug": "mazandaran",
+    "cities": [
+     {
+      "cityID": 948,
+      "name": "امیرکلا",
+      "slug": "amirkola"
+     },
+     {
+      "cityID": 949,
+      "name": "ایزدشهر",
+      "slug": "izadshahr"
+     },
+     {
+      "cityID": 950,
+      "name": "آلاشت",
+      "slug": "alasht"
+     }
+    ],
+    "allowedToFilterByCity": true,
+    "isTop": true
+   },
+   {
+    "provinceID": 1,
+    "name": "آذربایجان شرقی",
+    "slug": "east-azerbaijan",
+    "cities": [
+     {
+      "cityID": 1,
+      "name": "اسکو",
+      "slug": "osku"
+     },
+     {
+      "cityID": 2,
+      "name": "اهر",
+      "slug": "ahar"
+     },
+     {
+      "cityID": 3,
+      "name": "ایلخچی",
+      "slug": "ilkhchi"
+     }
+    ],
+    "allowedToFilterByCity": true,
+    "isTop": false
+   },
+   {
+    "provinceID": 11,
+    "name": "خراسان رضوی",
+    "slug": "razavi-khorasan",
+    "cities": [
+     {
+      "cityID": 1,
+      "name": "مشهد",
+      "slug": "mashhad"
+     }
+    ],
+    "allowedToFilterByCity": true,
+    "isTop": false
+   }
+  ]
+ }
+}

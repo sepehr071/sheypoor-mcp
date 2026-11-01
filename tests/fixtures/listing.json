@@ -1,0 +1,265 @@
+{
+ "jsonapi": {
+  "version": "1.1"
+ },
+ "meta": {
+  "seo": {}
+ },
+ "links": {
+  "self": "https://www.sheypoor.com/api/v10.0.0/listings/468673507"
+ },
+ "data": {
+  "type": "publicListingDetails",
+  "id": "468673507",
+  "attributes": {
+   "title": "هیوندای کرتا 2023 سفید",
+   "url": "https://www.sheypoor.com/v/هیوندای-کرتا-2023-سفید-468673507.html",
+   "timePassedLabel": "ساعاتی پیش",
+   "imageCount": 3,
+   "videoCount": 0,
+   "breadcrumbs": [
+    {
+     "title": "استان تهران",
+     "url": "https://www.sheypoor.com/s/tehran-province",
+     "type": "region"
+    },
+    {
+     "title": "تهران",
+     "url": "https://www.sheypoor.com/s/tehran",
+     "type": "city"
+    },
+    {
+     "title": "وسایل نقلیه",
+     "url": "https://www.sheypoor.com/s/tehran/vehicles",
+     "type": "category",
+     "subType": 1
+    },
+    {
+     "title": "خودرو",
+     "url": "https://www.sheypoor.com/s/tehran/car",
+     "type": "category",
+     "subType": 2
+    },
+    {
+     "title": "هیوندای",
+     "url": "https://www.sheypoor.com/s/tehran/car/hyundai",
+     "type": "category",
+     "subType": 3
+    },
+    {
+     "title": "کرتا",
+     "url": "https://www.sheypoor.com/s/tehran/car/hyundai/creta",
+     "type": "category",
+     "subType": 3
+    },
+    {
+     "title": "اقدسیه",
+     "url": "https://www.sheypoor.com/s/tehran/aqdasiyeh/car/hyundai",
+     "type": "neighbourhood"
+    }
+   ],
+   "seller": {
+    "url": "autoashkbos",
+    "name": "اشکبوس خودرو ",
+    "registeredAt": "عضو شیپور از آبان ۱۴۰۵",
+    "image": "https://www.sheypoor.com/image/082dad/500x0_S/shop_photos/79892/Image.webp?1785136913",
+    "rates": {
+     "count": 12,
+     "commentCount": 12,
+     "score": 4.25
+    },
+    "hasReviews": false,
+    "callbackUrl": null,
+    "listingCount": null,
+    "invoiceCount": null
+   },
+   "hideContactInfo": false,
+   "consultant": null,
+   "isSecurable": false,
+   "labels": [],
+   "resumeJobRequester": null,
+   "carInspection": {
+    "summary": null,
+    "certify": null
+   },
+   "topCategoryId": 43626,
+   "categoryId": 43954,
+   "price": [
+    {
+     "label": null,
+     "amount": 8960000000,
+     "currency": "تومان"
+    }
+   ],
+   "deliveryPrices": null,
+   "description": "اشکبوس خودرو ↙️سه راه اقدسیه↘️ بازدید فقط با هماهنگی قبلی جهت انتقال و فروش با ما در تماس باشید ️رویت وکارشناسی وتست درایو خودرو دراتاق ویژه کارشناسی معاوضه و اقساط نداریم فقط فروش نقدی ▫️ساعت بازدید 10 صبح تا 6 عصر ساعت تماس 9 صبح الی 9 شب▫️ ↙️توضیحات تکمیلی خودرو↘️ ️\nاپشن ها :پانوراما-سنسور پارک-درایومود-اتوهلد\nاتولایت-دوربین دنده عقب-مانیتور-تهویه اتومات\nکیلس-ترمز پارک-شیفتر فرمان\n× 100 دستگاه خودروی صفر و کارکرده موجود میباشد* ️توضیحات تکمیلی:سند آزاد اماده انتقال-خلافی مالیات-تمام مفاصاحساب به عهده مالک*<br><span class=\"blue link  dir-ltr\">0919XXX1960(نمایش کامل)</span>",
+   "location": "تهران، تهران، اقدسیه",
+   "images": [
+    {
+     "source": {
+      "mobile": "https://cdn.sheypoor.com/imgs/2026/10/28/468673507/1500x1125_Sw/468673507_b031a862ef2f4e121afcaaa302385fe0.webp",
+      "desktop": "https://cdn.sheypoor.com/imgs/2026/10/28/468673507/1500x936_Sw/468673507_b031a862ef2f4e121afcaaa302385fe0.webp"
+     },
+     "title": "هیوندای کرتا 2023 سفید در اقدسیه تهران در وسایل نقلیه شیپور-عکس1",
+     "alt": "هیوندای کرتا 2023 سفید در گروه خرید و فروش وسایل نقلیه در تهران در شیپور-عکس1"
+    },
+    {
+     "source": {
+      "mobile": "https://cdn.sheypoor.com/imgs/2026/10/28/468673507/1500x1125_Sw/468673507_d06370c352150c3d9de6060bf42227a5.webp",
+      "desktop": "https://cdn.sheypoor.com/imgs/2026/10/28/468673507/1500x936_Sw/468673507_d06370c352150c3d9de6060bf42227a5.webp"
+     },
+     "title": "هیوندای کرتا 2023 سفید در اقدسیه تهران در وسایل نقلیه شیپور-عکس2",
+     "alt": "هیوندای کرتا 2023 سفید در گروه خرید و فروش وسایل نقلیه در تهران در شیپور-عکس2"
+    }
+   ],
+   "videos": [],
+   "phone": "0919XXX1960",
+   "isPhoneVerified": true,
+   "isShopProfile": true,
+   "isSecurePurchase": false,
+   "showInsertRateButton": false,
+   "paidTags": [],
+   "actions": [],
+   "hideChat": false,
+   "attributes": [
+    {
+     "a68099": "434989",
+     "id": "68099",
+     "key": "نوع شاسی",
+     "value": "شاسی بلند",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "شاسی بلند"
+    },
+    {
+     "a68101": "2023",
+     "id": "68101",
+     "key": "سال تولید",
+     "value": "2023",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/calendar.webp",
+     "icon_caption": "تولید 2023"
+    },
+    {
+     "a68102": "12000",
+     "id": "68102",
+     "key": "کیلومتر",
+     "value": "12,000",
+     "type": "1",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/dashboard.webp",
+     "icon_caption": "۱۲,۰۰۰"
+    },
+    {
+     "a68145": "460726",
+     "id": "68145",
+     "key": "مدل خودرو",
+     "value": "کرتا",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "کرتا",
+     "link": "https://www.sheypoor.com/s/tehran/car/hyundai/creta"
+    },
+    {
+     "a69130": "445243",
+     "id": "69130",
+     "key": "رنگ",
+     "value": "سفید",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/color.webp",
+     "icon_caption": "سفید"
+    },
+    {
+     "a69140": "445313",
+     "id": "69140",
+     "key": "گیربکس",
+     "value": "اتوماتیک",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gearbox.webp",
+     "icon_caption": "اتوماتیک"
+    },
+    {
+     "a69150": "445097",
+     "id": "69150",
+     "key": "نقدی/اقساطی",
+     "value": "نقدی",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/money-bag.webp",
+     "icon_caption": "نقدی"
+    },
+    {
+     "a69160": "445317",
+     "id": "69160",
+     "key": "وضعیت بدنه",
+     "value": "سالم بدون خط و خش",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم بدون خط و خش"
+    },
+    {
+     "a69602": "450675",
+     "id": "69602",
+     "key": "نوع سوخت",
+     "value": "بنزین",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": "https://www.sheypoor.com/img/icons/attributes/gas-station.webp",
+     "icon_caption": "بنزین"
+    },
+    {
+     "a987000": "468000",
+     "id": "987000",
+     "key": "وضعیت شاسی جلو",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    },
+    {
+     "a987001": "468003",
+     "id": "987001",
+     "key": "وضعیت شاسی عقب",
+     "value": "سالم و پلمپ",
+     "type": "5",
+     "mobileApiVersion": "0",
+     "icon": null,
+     "icon_caption": "سالم و پلمپ"
+    }
+   ],
+   "showAttributesIcon": true,
+   "marketingBanner": null,
+   "certificate": null,
+   "position": null,
+   "approximatePosition": false,
+   "mapImage": null,
+   "ministryInquiry": null,
+   "addOn": false,
+   "priceRange": null,
+   "showPriceRangeFeedback": false,
+   "securePurchaseToman": false,
+   "externalActions": [],
+   "securePurchaseTomanButtonText": "پرداخت بیعانه",
+   "noteSectionEnabled": true,
+   "addedAt": "2026-10-28 11:18:50.6507",
+   "specificationSummary": {
+    "item": {
+     "ai_comment": "<p>هیوندای کرتا (2022-2023) به عنوان یک شاسی‌بلند کامپکت اقتصادی با طراحی مدرن و امکانات مناسب شناخته می‌شود. کاربران از مصرف سوخت مناسب، فضای داخلی جادار و سواری نرم آن برای استفاده شهری و خانوادگی رضایت دارند، اما برخی از شتاب ضعیف موتور، کیفیت متوسط مواد کابین و خدمات پس از فروش محدود در ایران گلایه دارند. این خودرو برای کسانی که به دنبال شاسی‌بلندی با قیمت مناسب و کاربردی هستند گزینه خوبی است، ولی محدودیت‌های بازار ایران در تأمین قطعات و خدمات ممکن است مشکل‌ساز شود.</p><h2 style=\"text-align:justify;\">نظرات مثبت</h2><ul><li><strong>مصرف سوخت اقتصادی</strong>: مصرف حدود 7-8 لیتر در 100 کیلومتر برای یک شاسی‌بلند مناسب است.</li><li><strong>فضای داخلی جادار</strong>: کابین برای خانواده‌های کوچک و بار کافی است.</li><li><strong>طراحی مدرن</strong>: ظاهر بیرونی شیک و به‌روز مورد پسند کاربران است.</li><li><strong>سواری نرم</strong>: سیستم تعلیق برای رانندگی شهری و جاده‌ای راحت است.</li><li><strong>امکانات خوب</strong>: مجهز به نمایشگر لمسی، دوربین عقب و کولر قوی است.</li></ul><h2 style=\"text-align:justify;\">نظرات منفی</h2><ul><li><strong>شتاب ضعیف</strong>: موتور 1.5 لیتری (115 اسب بخار) برای سبقت‌گیری کند است.</li><li><strong>کیفیت متوسط کابین</strong>: مواد پلاستیکی داخل کابین ارزان به نظر می‌رسد.</li><li><strong>خدمات پس از فروش ضعیف</strong>: پشتیبانی و تأمین قطعات در ایران محدود است.</li><li><strong>هزینه نگهداری بالا</strong>: قطعات یدکی وارداتی گران‌قیمت هستند.</li><li><strong>فضای عقب محدود</strong>: برای سرنشینان بلندقد در ردیف عقب کمی تنگ است.</li></ul><h2 style=\"text-align:justify;\"><strong>مشکلات رایج گزارش‌شده</strong>:</h2><ul><li><strong>خرابی سنسورها</strong>: برخی کاربران از عملکرد ناپایدار سنسورهای پارک گزارش کرده‌اند.</li><li><strong>نفوذ صدا</strong>: صدای موتور و جاده در سرعت‌های بالا به کابین وارد می‌شود.</li></ul>",
+     "item_link": "https://www.sheypoor.com/catalog-car/hyundai/creta"
+    },
+    "provider_relation": {
+     "price_link": "https://www.sheypoor.com/car-price/hyundai/creta"
+    }
+   },
+   "idParent": "43627",
+   "landings": []
+  }
+ }
+}

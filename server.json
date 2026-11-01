@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.sepehr071/sheypoor-mcp",
+  "title": "Sheypoor Classifieds",
+  "description": "Read-only Sheypoor (sheypoor.com) classifieds: search ads, ad details, price summaries.",
+  "repository": {
+    "url": "https://github.com/sepehr071/sheypoor-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://github.com/sepehr071/sheypoor-mcp",
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "sheypoor-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "SHEYPOOR_MCP_PROXY",
+          "description": "Optional HTTP proxy URL for the Sheypoor requests; system proxy settings are ignored. Also accepts a comma-separated list: one is used until it gets blocked or fails to connect, then the next.",
+          "isRequired": false,
+          "isSecret": false
+        }
+      ]
+    }
+  ]
+}
