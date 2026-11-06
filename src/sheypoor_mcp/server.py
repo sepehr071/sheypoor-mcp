@@ -15,12 +15,8 @@ INSTRUCTIONS = """Unofficial, read-only access to Sheypoor (شیپور, sheypoor
 real estate, mobiles, home goods, jobs and services: the same public ad data its website shows to anyone without an
 account. Nothing here can log in, post, chat or reveal seller phone numbers.
 
-Tools: sp_search (ads by words, city, category, price range, sort and attribute filters), sp_ad (one ad in full:
-description, attributes, seller, photos), sp_price_summary (min, median, quartiles, max of asking prices for a
-search), sp_categories (category slugs), sp_cities (city and province slugs), sp_filters (the filters, sort orders,
-brands, models and neighbourhoods a category offers), sp_similar (comparable ads for one ad), sp_shops and sp_shop
-(internet shops and agencies), sp_car_prices (daily market and factory car prices), sp_area_prices (median prices per
-neighbourhood).
+Tools: sp_search, sp_ad, sp_price_summary, sp_categories, sp_cities, sp_filters, sp_similar, sp_shops, sp_shop,
+sp_car_prices, sp_area_prices.
 
 Typical flows: "used Peugeot 206 in Tehran under 500 million" -> sp_search(query="206", city="tehran",
 category="car/peugeot", max_price=500000000). "What does an iPhone 13 cost in Mashhad" -> sp_cities("مشهد") ->

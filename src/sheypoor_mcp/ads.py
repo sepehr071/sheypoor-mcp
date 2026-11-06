@@ -17,33 +17,31 @@ CATEGORY_PATTERN = r"^[A-Za-z0-9_-]+(/[A-Za-z0-9_-]+){0,2}$"  # car, car/peugeot
 City = Annotated[
     str,
     Field(
-        description="City or province slug from sp_cities, e.g. tehran, mashhad, tehran-province. 'iran' = all Iran.",
+        description="City or province slug from sp_cities, e.g. tehran. 'iran' = all Iran.",
         pattern=r"^[A-Za-z0-9-]{2,60}$",
     ),
 ]
 Category = Annotated[
     str | None,
     Field(
-        description="Category slug from sp_categories (e.g. car, apartment-sell, mobile-phone) or a brand/model path from sp_filters (car/peugeot, car/peugeot/206). Omit to search every category.",
+        description="Slug from sp_categories (car, mobile-phone) or sp_filters path (car/peugeot/206). Omit for all.",
         pattern=CATEGORY_PATTERN,
     ),
 ]
-Query = Annotated[
-    str | None, Field(description="Words to search in ads, Persian, e.g. پراید or آیفون 13.", max_length=200)
-]
-MinPrice = Annotated[int | None, Field(description="Lowest price in Toman, e.g. 100000000.", ge=0, le=10**13)]
-MaxPrice = Annotated[int | None, Field(description="Highest price in Toman.", ge=0, le=10**13)]
+Query = Annotated[str | None, Field(description="Persian words, e.g. پراید.", max_length=200)]
+MinPrice = Annotated[int | None, Field(description="Lowest price, Toman.", ge=0, le=10**13)]
+MaxPrice = Annotated[int | None, Field(description="Highest price, Toman.", ge=0, le=10**13)]
 Areas = Annotated[
     list[Annotated[str, Field(pattern=r"^\d{1,7}$")]] | None,
     Field(
-        description="Neighbourhood ids from sp_filters(area=...) to search inside (up to 10), e.g. ['888', '974']. City-level only.",
+        description="Neighbourhood ids from sp_filters(area=...), e.g. ['888']. City-level only.",
         max_length=10,
     ),
 ]
 Filters = Annotated[
     dict[str, str] | None,
     Field(
-        description="Extra filters from sp_filters as {name: value}: a<id> takes an option id (a69150: '445100'), mn<id>/mx<id> are range ends (mn68101: '1400' = year from)."
+        description="Filters from sp_filters as {name: value}: a<id> option id, mn<id>/mx<id> range ends (mn68101: '1400' = year from)."
     ),
 ]
 
@@ -195,24 +193,19 @@ async def sp_search(
     max_price: MaxPrice = None,
     sort: Annotated[
         SortName,
-        Field(
-            description="Order: newest (default), cheapest, priciest; cars also lowest_km, highest_km, oldest_year, newest_year."
-        ),
+        Field(description="Cars also: km and year orders."),
     ] = "newest",
     filters: Filters = None,
     neighbourhoods: Areas = None,
-    page: Annotated[int, Field(description="Page number, 24 ads each.", ge=1, le=50)] = 1,
-    limit: Annotated[int, Field(description="Max ads to return (1-40).", ge=1, le=MAX_ITEMS)] = 20,
+    page: Annotated[int, Field(description="24 ads per page.", ge=1, le=50)] = 1,
+    limit: Annotated[int, Field(description="Max ads.", ge=1, le=MAX_ITEMS)] = 20,
 ) -> dict[str, Any]:
     """Search Sheypoor classified ads (cars, real estate, goods, jobs, services) by words, city, category and price.
 
-    Use it to find ads or see what is on sale; call sp_ad with an ad `id` for the full text, seller and all
-    attributes. Slugs come from sp_cities and sp_categories; for attribute filters (year, brand, colour, gearbox,
-    area...) call sp_filters first. `price` is in Toman (null when the seller wrote negotiable: see `price_text`);
-    prices of 1,000 Toman are placeholders. Rentals carry `prices` ({رهن deposit, اجاره rent}; `price` is the first
-    of them). Use `neighbourhoods` (ids from sp_filters area=...) for areas inside a city. `nearby` ads are from around the city: the site adds them when few
-    ads match inside it. `promoted` ads are paid showcase slots and may not match your filters exactly. `matching` is the count of real matches; `total` also counts nearby/padding ads. Sorting by price puts placeholder prices first:
-    set min_price to skip them. For a median or range of prices use sp_price_summary instead.
+    Call sp_ad with an ad `id` for details; sp_filters first for attribute filters. `price` is Toman (null =
+    negotiable, see `price_text`); 1,000 is a placeholder, so set min_price when sorting by price. Rentals carry
+    `prices` ({رهن deposit, اجاره rent}). `nearby` and `promoted` ads may not match your filters. `matching` is
+    the real match count; `total` includes padding. For a median use sp_price_summary.
     """
     p = _params(query, min_price, max_price, sort if sort != "newest" else None, filters, page, neighbourhoods)
     d = await _page(city, category, p)
@@ -237,15 +230,13 @@ def _where(crumbs: list[dict[str, Any]]) -> tuple[str | None, str | None]:
 
 @tool("Ad details")
 async def sp_ad(
-    id: Annotated[str, Field(description="Ad id from sp_search, e.g. 468673507.", pattern=r"^\d{4,12}$")],
-    photos: Annotated[int, Field(description="How many photo URLs to include (0-10).", ge=0, le=10)] = 3,
+    id: Annotated[str, Field(description="Ad id from sp_search.", pattern=r"^\d{4,12}$")],
+    photos: Annotated[int, Field(description="Photo URLs to include.", ge=0, le=10)] = 3,
 ) -> dict[str, Any]:
     """Get one Sheypoor ad in full: description, price, location, seller, every attribute and photo links.
 
-    `id` comes from sp_search. `city_slug` and `category_slug` plug straight into sp_search; sp_similar finds
-    comparable ads. Rentals have `prices` (رهن deposit, اجاره rent) instead of one price. The seller's phone number needs a Sheypoor login and is not available here (the
-    site shows it masked); open `url` in a browser to contact the seller. For a list of similar ads call
-    sp_search with the same category.
+    `city_slug` and `category_slug` plug into sp_search; sp_similar finds comparable ads. Rentals have `prices`
+    (رهن deposit, اجاره rent). The seller's phone is not available; open `url` to contact the seller.
     """
     try:
         d = (await fetch(f"listings/{id}"))["data"]
@@ -312,14 +303,13 @@ async def sp_price_summary(
     max_price: MaxPrice = None,
     filters: Filters = None,
     neighbourhoods: Areas = None,
-    pages: Annotated[int, Field(description="How many result pages (24 ads each) to sample, 1-5.", ge=1, le=5)] = 3,
+    pages: Annotated[int, Field(description="Result pages (24 ads each) to sample.", ge=1, le=5)] = 3,
 ) -> dict[str, Any]:
     """Summarise asking prices of the newest ads for a search: count, min, median, quartiles, max, plus cheapest and priciest ads.
 
-    Use it to answer "what does X cost on Sheypoor". It samples the newest ads (up to 5 pages), so it shows
-    current asking prices, not sold prices. Ads without a numeric price and placeholder prices under 10,000
-    Toman are left out. Narrow the query (year, brand, city via sp_filters/sp_cities) for a useful median.
-    Values are in Toman.
+    Use it for "what does X cost on Sheypoor": asking prices of the newest ads, not sold prices. Ads without a
+    numeric price and prices under 10,000 Toman are left out. Narrow the query (year, brand, city) for a useful
+    median. Values are in Toman.
     """
     floor = max(min_price or 0, JUNK_PRICE)
     base = _params(query, floor, max_price, None, filters, areas=neighbourhoods)
@@ -358,14 +348,13 @@ async def sp_price_summary(
 async def sp_categories(
     query: Annotated[
         str | None,
-        Field(description="Part of a category name or slug to filter by, e.g. خودرو or apartment.", max_length=60),
+        Field(description="Part of a category name or slug, e.g. خودرو.", max_length=60),
     ] = None,
 ) -> dict[str, Any]:
     """List Sheypoor's categories with the slug sp_search and sp_filters take, grouped under 11 top-level groups.
 
-    Pass `query` to keep only matching groups or categories. Brands and models of cars live one level deeper:
-    sp_filters(category="car") lists their slugs (e.g. car/peugeot). Use the slug of a sub-category alone
-    (car, not vehicles/car).
+    Car brands and models are deeper: sp_filters(category="car") lists them (car/peugeot). Use a sub-category
+    slug alone (car, not vehicles/car).
     """
     d = await fetch("categories/compact")
     by_id = {x["id"]: x for x in d.get("included", []) + d["data"]}
@@ -397,16 +386,15 @@ async def sp_cities(
     query: Annotated[
         str | None,
         Field(
-            description="Part of a city or province name or slug, e.g. مشهد or isfahan. Omit to list provinces.",
+            description="Part of a city or province name or slug, e.g. مشهد. Omit to list provinces.",
             max_length=60,
         ),
     ] = None,
-    limit: Annotated[int, Field(description="Max cities to return (1-50).", ge=1, le=50)] = 20,
+    limit: Annotated[int, Field(description="Max cities.", ge=1, le=50)] = 20,
 ) -> dict[str, Any]:
     """Find the city or province slug that sp_search, sp_price_summary and sp_filters take.
 
-    With `query`, returns matching cities (slug, province); a province slug also works as `city` and covers
-    every city in it. Without `query`, lists the 31 provinces with their slugs and number of cities.
+    A province slug also works as `city` and covers all its cities. Without `query`, lists the 31 provinces.
     """
     d = (await fetch("general/locations"))["data"]["list"]
     if not query:
@@ -435,7 +423,7 @@ async def sp_filters(
     category: Annotated[
         str,
         Field(
-            description="Category slug from sp_categories, e.g. car, houses-apartments-for-sale, house-apartment-for-rent, jobs sub-categories like driver. A brand path (car/peugeot) lists its models.",
+            description="Slug from sp_categories, e.g. car, house-apartment-for-rent. A brand path (car/peugeot) lists its models.",
             pattern=CATEGORY_PATTERN,
         ),
     ],
@@ -443,21 +431,17 @@ async def sp_filters(
     area: Annotated[
         str | None,
         Field(
-            description="Part of a neighbourhood name to look up its id, e.g. پونک. Needs a city (not 'iran').",
+            description="Part of a neighbourhood name, e.g. پونک. Needs a city (not 'iran').",
             max_length=60,
         ),
     ] = None,
 ) -> dict[str, Any]:
     """List the filters, sort orders, sub-categories (car brands, models) and neighbourhoods Sheypoor offers in one category.
 
-    Call this before using `filters` in sp_search or sp_price_summary; every category has its own (cars: year, km,
-    gearbox; sale: meterage mn68085/mx68085, rooms; rent: deposit mn68090 and rent mn68092; jobs: salary, contract).
-    Each filter has a `name` (a<id>, mn<id>, mx<id>) and, for choices, `options` as {id, label}: pass {name: id}.
-    Range filters list min/max names (pass a plain number, e.g. mn68101='1400'). Yes/no filters have
-    `value` '1' (pass {name: '1'}); number filters take a plain number. `subcategories` slugs (car/peugeot,
-    then car/peugeot/206) go in `category`. `neighbourhoods` (id, name, ads) go in sp_search `neighbourhoods`; pass
-    `area` to search the full list by name. The nearest-first sort needs the visitor's GPS and is not offered.
-    Prices use min_price/max_price instead.
+    Call before using `filters` in sp_search or sp_price_summary. Choice filters have a `name` and `options`
+    {id, label}: pass {name: id}. Range filters list min/max names: pass a plain number. Yes/no filters have
+    `value` '1'. `subcategories` slugs go in `category`; `neighbourhoods` ids go in `neighbourhoods`; `area`
+    searches the full list by name. Prices use min_price/max_price.
     """
     d = await _filters(city, category)
     meta = d.get("meta", {})
