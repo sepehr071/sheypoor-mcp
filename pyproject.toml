@@ -1,6 +1,6 @@
 [project]
 name = "sheypoor-mcp"
-version = "0.1.0"
+version = "0.2.0"
 description = "Unofficial read-only MCP server for Sheypoor (sheypoor.com), Iran's classifieds: search ads, ad details, price summaries for cars, real estate and goods."
 readme = "README.md"
 license = "MIT"
