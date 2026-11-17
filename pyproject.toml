@@ -1,9 +1,9 @@
 [project]
 name = "sheypoor-mcp"
-version = "0.2.0"
+version = "0.2.1"
 description = "Unofficial read-only MCP server for Sheypoor (sheypoor.com), Iran's classifieds: search ads, ad details, price summaries for cars, real estate and goods."
 readme = "README.md"
-license = "MIT"
+license = "PolyForm-Noncommercial-1.0.0"
 license-files = ["LICENSE"]
 authors = [{ name = "Sepehr Radmard", email = "sepehrr80@gmail.com" }]
 requires-python = ">=3.10"
