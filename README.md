@@ -70,12 +70,6 @@ and args `["sheypoor-mcp"]`, e.g. `{"mcpServers": {"sheypoor": {"command": "uvx"
 
 All 11 tools are annotated `readOnlyHint: true`.
 
-## How it works
-
-`sheypoor-mcp` runs locally and calls the same public JSON API (`www.sheypoor.com/api/v10.0.0`) the Sheypoor website
-uses, through a Chrome-impersonating client with the web app's headers. It makes at most 3 requests at a time with a
-little jitter, keeps answers for 60 seconds, retries a failed GET up to twice, and only talks to `www.sheypoor.com`.
-
 ## Good to know
 
 - **Few matches:** Sheypoor adds `nearby` ads (from around the city); they are flagged `nearby`. `promoted` ads are paid showcase slots and can ignore your filters.
